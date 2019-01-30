@@ -25,4 +25,3 @@ Route::get('servicos/{id}',function($id){
 });
 
 
-Route::post('/clientes', 'ClientesController@create');
